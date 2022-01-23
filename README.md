@@ -1,4 +1,7 @@
 # KTU-S7 QUESTION PAPERS.
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 - https://docs.google.com/document/d/1IqghGxFZX6UUYqh-PJOTSXN-Mk3xGMiCGFSMcKbxRXw/edit?usp=sharing CG
 
@@ -57,3 +60,23 @@
 
 - https://www.youtube.com/watch?v=PGgDaJ8oDPY&list=PLPGmOViFmiX52vE9KvZChiQM6yGlnLHCk
 - https://www.youtube.com/watch?v=cK1Y_zed2zM&list=PLZsB-Etza3js99e2EwfZv2wcU5xS5OR8M
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/lijo-zechariah-james-12091999/"><img src="https://avatars.githubusercontent.com/u/58859001?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lijo Zechariah James</b></sub></a><br /><a href="#content-lijozech-12" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
