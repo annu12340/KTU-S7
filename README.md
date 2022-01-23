@@ -1,4 +1,4 @@
-# KTU-S7
+# KTU-S7 QUESTION PAPERS.
 
 - https://docs.google.com/document/d/1IqghGxFZX6UUYqh-PJOTSXN-Mk3xGMiCGFSMcKbxRXw/edit?usp=sharing CG
 
