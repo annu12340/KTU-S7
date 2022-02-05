@@ -67,6 +67,7 @@
 
 ### ML
 -  https://drive.google.com/drive/folders/1sMqzicBwUvZRyUIdNCBVLmDKwITo-q4m
+-  https://www.youtube.com/watch?v=9V2qyQYdW4M&list=PLiMoQi90JLEQxjAZ51HQj41B66U97qWcS
 
 ## Contributors ✨
 
